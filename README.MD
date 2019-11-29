@@ -17,8 +17,6 @@
    1. Apskaiciuoti transakcijos kaina
    2. Patikrinti ar bloko hashas yra teisingas
    3. Baigti programa
-
-
    ``` 
 - Choose the first option to calculate the fee of the chosen transaction
 - Choose the second option to check if hash of the chosen block is valid
@@ -26,7 +24,7 @@
 ---
 ## Python configured bitcoin full node provided by my homeboy [Augustinas Makevičius](https://github.com/AugustinasMK)
 ![](node.png)
-- Special thanks to [Žygimantas Augūnas](https://github.com/zygisau) for help with setting up remote interpreter
+- Special thanks to [Žygimantas Augūnas](https://github.com/zygisau) for help with setting up the remote interpreter
 
 
 
@@ -50,6 +48,7 @@
 - Initial files
 - ```drivefuncs.py```
 - ```globals.py```
+- ```main.py```
 - functions for calculating transaction fee
 - functions for verifying block hashes
 - README
